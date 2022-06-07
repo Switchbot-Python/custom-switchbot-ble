@@ -1,5 +1,5 @@
 {
-  "domain": "switchbot",
+  "domain": "switchbot_patched",
   "name": "SwitchBot Patched",
   "documentation": "https://www.home-assistant.io/integrations/switchbot",
   "requirements": ["PySwitchbot-patched==0.13.4"],
