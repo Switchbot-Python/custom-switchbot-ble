@@ -1,10 +1,10 @@
 {
   "domain": "switchbot",
-  "name": "SwitchBot",
+  "name": "SwitchBot Patched",
   "documentation": "https://www.home-assistant.io/integrations/switchbot",
-  "requirements": ["PySwitchbot==0.13.3"],
+  "requirements": ["PySwitchbot-patched==0.13.4"],
   "config_flow": true,
-  "codeowners": ["@danielhiversen", "@RenierM26"],
+  "codeowners": ["@ninadpchaudhari"],
   "iot_class": "local_polling",
   "loggers": ["switchbot"]
 }
