@@ -1,6 +1,6 @@
 {
-  "domain": "switchbotV3",
-  "name": "SwitchBotV3",
+  "domain": "switchbotPatched",
+  "name": "switchbotPatched",
   "version" : "10",
   "documentation": "https://www.home-assistant.io/integrations/switchbot",
   "config_flow": true,
