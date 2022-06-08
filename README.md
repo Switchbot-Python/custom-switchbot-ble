@@ -10,5 +10,6 @@ The only change from official version is
 2. API of switchbotPatched is used instead of pySwitchbot
 
 To install, copy the Git repo link into HACS, after reboot search for switchbotPatched under integrations
+Todo: Add novice friendly instructions
 
 [More Info?](https://github.com/Switchbot-Python/.github/blob/main/profile/README.md)
